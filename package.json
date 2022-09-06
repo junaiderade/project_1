@@ -1,0 +1,17 @@
+{
+  "name": "project_1",
+  "version": "1.0.0",
+  "description": "a test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "junaiderade",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1205.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
